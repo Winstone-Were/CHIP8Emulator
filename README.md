@@ -1,5 +1,8 @@
 # 🎮 CHIP-8 Emulator
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![SDL2](https://img.shields.io/badge/SDL-2.0-brightgreen.svg)
+
 This is a simple CHIP-8 emulator written in C++. It allows you to load and play CHIP-8 ROMs using SDL2 for graphics and input handling.
 
 ## ✨ Features
