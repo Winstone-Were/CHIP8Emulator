@@ -56,9 +56,9 @@ After building, you can run the emulator as follows:
 ./chip8 10 5 path/to/rom.ch8
 ```
 ## 📂Code Structure
-    Source/Chip8.cpp: Implements the CHIP-8 virtual machine.
-    Source/Main.cpp: Main entry point of the emulator.
-    Source/Platform.cpp: Handles SDL2 setup and input processing.
+- Source/Chip8.cpp: Implements the CHIP-8 virtual machine.
+- Source/Main.cpp: Main entry point of the emulator.
+- Source/Platform.cpp: Handles SDL2 setup and input processing.
 ## 📦 Dependencies
 The emulator uses SDL2 for graphics and input. Install SDL2 using the following command (Linux):
 
